@@ -1,0 +1,19 @@
+{
+  "name": "Elastic",
+  "version": "1.0.0",
+  "description": "Mobile Friendly service website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Mobile",
+    "Friendly",
+    "Mobile",
+    "Development",
+    "Google",
+    "Analytics"
+  ],
+  "author": "Arnold E Krumins",
+  "license": "ISC"
+}

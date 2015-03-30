@@ -9,9 +9,9 @@ app.factory('MobileFriendlyService',function($http,$q,$log){
 
     return{
 
-        apipath:  baseUrl + callback,
+       // apipath:  baseUrl + callback,
 
-        GetSiteData: function (url) {
+        GetSiteInfo: function (url) {
 
             var url = baseUrl + url + postfix;
 
